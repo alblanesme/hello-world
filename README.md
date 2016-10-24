@@ -1,2 +1,2 @@
 # hello-world
-first step
+This is a Hello World application
